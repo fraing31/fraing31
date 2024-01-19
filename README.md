@@ -20,6 +20,7 @@
 * Visual Studio Code
 * Git
 * Tableau
+* Power BI
 
 ### GitHub Stats
 
