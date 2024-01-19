@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Irving Cardenas 👨‍💻 
 
 <div align="center">
-<img src="https://github.com/fraing31/fraing31/assets/59494271/2b489ef6-ef9a-4fd4-819e-be3c17b9fcf1">
+<img src="https://github.com/fraing31/fraing31/assets/59494271/846bd7fc-8685-49c8-83cb-8f65ee32595e">
 </div>
 
 ---
