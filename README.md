@@ -6,7 +6,7 @@
 
 ---
 
-<p>I'm a developer with a business background that is in the process to learn more about Data Science and cloud computing. In my last working experience, I gained skills in writing code using best practices in Web development and expertise in handling of new tools in programming and data visualization.</p>
+<p>I'm a developer with a business background that is in the process to learn more about data, programming and cloud computing. In my last working experience, I gained skills in writing code using best practices in Web development and expertise in handling of new tools in programming and data visualization with jaspersoft.</p>
 
 ### Programming Languages
 * Python, Django
